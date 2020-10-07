@@ -8,5 +8,13 @@ function behappy() {
   console.log("Be Happy}");
 }
 
+function beMoreHappy() {
+  console.log("BE Happy");
+}
+
+function beArtist() {
+  console.log("BE Artist");
+}
+
 behappy();
 beunhappy();
